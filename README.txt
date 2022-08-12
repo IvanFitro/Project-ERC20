@@ -1,2 +1,2 @@
 -Remember to install the node_modules --> npm i 
--Remember to add your mnemonic in the trufflec-config.js 
+-Remember to add your mnemonic in the truffle-config.js 
